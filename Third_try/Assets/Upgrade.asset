@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f55b50992a1b2f940bf284102392d440, type: 3}
+  m_Name: Upgrade
+  m_EditorClassIdentifier: 
+  dmgUpgCount: 000000000000000000000000000000000000000000000000
+  dmgPerUpg:
+  - 0.2
+  - 0.2
+  - 0.2
+  - 0.2
+  - 0.2
+  - 0.2
+  dmgUpgCost: 960000009600000096000000960000009600000096000000
+  dmgUpgCostInPercent: 960000009600000096000000960000009600000096000000
+  atkSpeedUpgCount: 000000000000000000000000000000000000000000000000
+  atkSpeedPerUpg:
+  - 0.1
+  - 0.1
+  - 0.1
+  - 0.1
+  - 0.1
+  - 0.1
+  atkSpeedUpgCost: 960000009600000096000000960000009600000096000000
+  atkSpeedUpgCostInPercent: 960000009600000096000000960000009600000096000000
+  baseAtkSpeed:
+  - 0.75
+  - 1.5
+  - 0
+  - 0
+  - 0
+  - 0
+  abilityItemAmmount: 06000000
+  abilityCost: 32000000
+  maxAbility: 0a000000
+  moneyAmmount: 300
+  tempMoneyTaken: 0
